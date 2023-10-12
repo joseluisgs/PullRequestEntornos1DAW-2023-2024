@@ -13,6 +13,6 @@ Sincroniza tus cambios a tu repositorio
 
 Haz un Pull Request de tu rama ApellidosNombre a mi rama dev
 
-Una vez hecho el pull resuqyest, Te toca negociar conmigo, si lo haces mal, las gallinas te perseguirán 🐔
+Una vez hecho el pull request, Te toca negociar conmigo, si lo haces mal, las gallinas te perseguirán 🐔
 
 Suerte
