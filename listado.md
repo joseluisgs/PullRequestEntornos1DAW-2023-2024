@@ -7,36 +7,27 @@ Profesor: [José Luis González](./GonzalezSanchezJoseLuis.txt)
 Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para que se vea como una lista
 
 Alumnado (Apellidos, Nombre): 
-- Cobos Ferrer Ricardo Rubén
+- Aguilera Villaplana Alejandro (GitKraken)
 - Gregorio Asensio, Christian (GitKraken)
-- Jesus Oscar Cobo Arrogante
-- Germán Fernández Carracedo
-- Fernandez Delgado Raul
-- Ruiz Serrano Javier
-- De León Santos, Shayla
-- Orduña Garcia, Alba (GitKraken) 
-- Cabanyes Muñoz, Cristina
-- Novillo Luceño, Diego
-- Domingo Álvarez, Mario de
-- Leon Mulero, Jaime
+- Orduña Garcia, Alba (GitKraken)
 - Gonzalez Alvarez, Natalia (Gitkraken)
-- Hernández-Javier (GitKraken)
-- Cobos Ferrer Ricardo Rubén
-- Hernández-Javier
 - Cobos Ferrer Ricardo Rubén (GitKraken)
-- Jesus Oscar Cobo Arrogante
-- Germán Fernández Carracedo
-- Ruiz Serrano Javier
 - Fernandez Delgado Raul (GitKraken)
 - Ruiz Serrano Javier (Gitkraken)
 - De León Santos, Shayla (GitKraken)
 - El hadri el bakkali, Yahya(gitkraken)
 - Cabanyes Muñoz, Cristina (GitKraken)
-- Novillo Luceño, Diego
+- Hernández-Javier (GitKraken)
 - Domingo Álvarez, Mario de (GitKraken)
 - Leon Mulero, Jaime (GitKraken)
-- Aguilera Villaplana Alejandro
-- Cristian Ortega Gonzalez (GitKraken)
+- Ortega Gonzalez, Christian (GitKraken)
 - Calderon Aguinaga, Jose Daniel(GitKraken)
-- Aguilera Villaplana Alejandro (GitKraken)
+- Cobo Arrogante, Jesus Oscar
+- Fernández Carracedo, German
+- Novillo Luceño, Diego
+- Fernández Carracedo, Germán
+
+
+
+
 
