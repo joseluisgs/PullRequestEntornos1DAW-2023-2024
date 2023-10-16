@@ -44,7 +44,7 @@ Alumnado (Apellidos, Nombre):
 - Leon Mulero, Jaime (GitKraken)
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
+- Cristian Ortega Gonzalez (GitKraken)
 - Calderon Aguinaga, Jose Daniel(GitKraken)
-- Cristian Ortega Gonzalez
 - Aguilera Villaplana Alejandro (GitKraken)
 
