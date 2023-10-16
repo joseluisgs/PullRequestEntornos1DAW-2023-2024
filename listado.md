@@ -7,6 +7,8 @@ Profesor: [José Luis González](.GonzalezSanchezJoseLuis.txt)
 Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para que se vea como una lista
 
 Alumnado (Apellidos, Nombre): 
+- Hernández-Javier (GitKraken)
+- Cobos Ferrer Ricardo Rubén
 - Hernández-Javier
 - Cobos Ferrer Ricardo Rubén (GitKraken)
 - Gregorio Asensio, Christian
