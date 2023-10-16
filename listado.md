@@ -9,17 +9,19 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 Alumnado (Apellidos, Nombre): 
 - Hernández-Javier (GitKraken)
 - Cobos Ferrer Ricardo Rubén
+- Hernández-Javier
+- Cobos Ferrer Ricardo Rubén (GitKraken)
 - Gregorio Asensio, Christian
 - Jesus Oscar Cobo Arrogante
 - Germán Fernández Carracedo
 - Fernandez Delgado Raul
-- Ruiz Serrano Javier
+- Ruiz Serrano Javier (Gitkraken)
 - De León Santos, Shayla
-- El hadri el bakkali, Yahya
+- El hadri el bakkali, Yahya(gitkraken)
 - Orduña Garcia, Alba 
 - Cabanyes Muñoz, Cristina
 - Novillo Luceño, Diego
 - Domingo Álvarez, Mario de
-- Leon Mulero, Jaime
+- Leon Mulero, Jaime (GitKraken)
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
