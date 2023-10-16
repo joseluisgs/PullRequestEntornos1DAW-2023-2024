@@ -22,7 +22,7 @@ Alumnado (Apellidos, Nombre):
 - De León Santos, Shayla (GitKraken)
 - El hadri el bakkali, Yahya(gitkraken)
 - Orduña Garcia, Alba 
-- Cabanyes Muñoz, Cristina
+- Cabanyes Muñoz, Cristina (GitKraken)
 - Novillo Luceño, Diego
 - Domingo Álvarez, Mario de
 - Leon Mulero, Jaime (GitKraken)
