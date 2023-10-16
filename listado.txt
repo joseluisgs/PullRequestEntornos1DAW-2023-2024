@@ -6,3 +6,5 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 
 Alumnado (Apellidos, Nombre): 
 - Leon Mulero, Jaime
+- Gonzalez Alvarez, Natalia
+- Aguilera Villaplana Alejandro
