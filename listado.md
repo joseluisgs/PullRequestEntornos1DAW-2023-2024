@@ -13,7 +13,7 @@ Alumnado (Apellidos, Nombre):
 - Jesus Oscar Cobo Arrogante
 - Germán Fernández Carracedo
 - Fernandez Delgado Raul
-- Ruiz Serrano Javier
+- Ruiz Serrano Javier (Gitkraken)
 - De León Santos, Shayla
 - El hadri el bakkali, Yahya(gitkraken)
 - Orduña Garcia, Alba 
