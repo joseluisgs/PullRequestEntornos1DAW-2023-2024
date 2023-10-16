@@ -23,4 +23,4 @@ Alumnado (Apellidos, Nombre):
 - Leon Mulero, Jaime
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
-- Cristian Ortega Gonzalez
+- Cristian Ortega Gonzalez (GitKraken)
