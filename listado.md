@@ -24,4 +24,6 @@ Alumnado (Apellidos, Nombre):
 - Domingo Álvarez, Mario de
 - Leon Mulero, Jaime (GitKraken)
 - Gonzalez Alvarez, Natalia
+- Aguilera Villaplana Alejandro
+- Calderon Aguinaga , Jose Daniel
 - Aguilera Villaplana Alejandro (GitKraken)
