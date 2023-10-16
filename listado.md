@@ -20,6 +20,6 @@ Alumnado (Apellidos, Nombre):
 - Cabanyes Muñoz, Cristina
 - Novillo Luceño, Diego
 - Domingo Álvarez, Mario de
-- Leon Mulero, Jaime
+- Leon Mulero, Jaime (GitKraken)
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
