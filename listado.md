@@ -16,7 +16,7 @@ Alumnado (Apellidos, Nombre):
 - Ruiz Serrano Javier
 - De León Santos, Shayla
 - El hadri el bakkali, Yahya
-- Orduña Garcia, Alba 
+- Orduña Garcia, Alba (GitKraken) 
 - Cabanyes Muñoz, Cristina
 - Novillo Luceño, Diego
 - Domingo Álvarez, Mario de
