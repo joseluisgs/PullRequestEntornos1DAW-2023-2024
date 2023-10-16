@@ -23,3 +23,28 @@ Alumnado (Apellidos, Nombre):
 - Leon Mulero, Jaime
 - Gonzalez Alvarez, Natalia (Gitkraken)
 - Aguilera Villaplana Alejandro
+- Hernández-Javier (GitKraken)
+- Cobos Ferrer Ricardo Rubén
+- Hernández-Javier
+- Cobos Ferrer Ricardo Rubén (GitKraken)
+- Gregorio Asensio, Christian
+- Jesus Oscar Cobo Arrogante
+- Germán Fernández Carracedo
+- Ruiz Serrano Javier
+- De León Santos, Shayla
+- El hadri el bakkali, Yahya
+- Fernandez Delgado Raul (GitKraken)
+- Ruiz Serrano Javier (Gitkraken)
+- De León Santos, Shayla (GitKraken)
+- El hadri el bakkali, Yahya(gitkraken)
+- Orduña Garcia, Alba 
+- Cabanyes Muñoz, Cristina (GitKraken)
+- Novillo Luceño, Diego
+- Domingo Álvarez, Mario de (GitKraken)
+- Leon Mulero, Jaime (GitKraken)
+- Gonzalez Alvarez, Natalia
+- Aguilera Villaplana Alejandro
+- Cristian Ortega Gonzalez
+- Calderon Aguinaga , Jose Daniel
+- Aguilera Villaplana Alejandro (GitKraken)
+
