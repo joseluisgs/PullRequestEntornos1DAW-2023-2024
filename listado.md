@@ -15,7 +15,7 @@ Alumnado (Apellidos, Nombre):
 - Fernandez Delgado Raul
 - Ruiz Serrano Javier
 - De León Santos, Shayla
-- El hadri el bakkali, Yahya
+- El hadri el bakkali, Yahya(gitkraken)
 - Orduña Garcia, Alba 
 - Cabanyes Muñoz, Cristina
 - Novillo Luceño, Diego
