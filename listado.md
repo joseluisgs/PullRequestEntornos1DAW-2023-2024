@@ -18,7 +18,7 @@ Alumnado (Apellidos, Nombre):
 - El hadri el bakkali, Yahya
 - Orduña Garcia, Alba 
 - Cabanyes Muñoz, Cristina
-- Novillo Luceño, Diego
+- Novillo Luceño, Diego (GitKraken)
 - Domingo Álvarez, Mario de
 - Leon Mulero, Jaime
 - Gonzalez Alvarez, Natalia
