@@ -6,3 +6,7 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 
 Alumnado (Apellidos, Nombre): 
 - Novillo Luceño, Diego
+- Domingo Álvarez, Mario de
+- Leon Mulero, Jaime
+- Gonzalez Alvarez, Natalia
+- Aguilera Villaplana Alejandro
