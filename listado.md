@@ -1,6 +1,8 @@
 Listado de alumnado de 1DAW 2023-2024
 
-Profesor: José Luis González
+![encabezado](https://www.shiksha.com/online-courses/articles/wp-content/uploads/sites/11/2021/12/Programming-vs-Web-Development.jpg.webp)
+
+Profesor: [José Luis González](.GonzalezSanchezJoseLuis.txt)
 
 Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para que se vea como una lista
 
