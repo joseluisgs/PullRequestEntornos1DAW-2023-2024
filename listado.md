@@ -12,7 +12,7 @@ Alumnado (Apellidos, Nombre):
 - Gregorio Asensio, Christian
 - Jesus Oscar Cobo Arrogante
 - Germán Fernández Carracedo
-- Fernandez Delgado Raul
+- Fernandez Delgado Raul (GitKraken)
 - Ruiz Serrano Javier
 - De León Santos, Shayla
 - El hadri el bakkali, Yahya
