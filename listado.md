@@ -24,9 +24,11 @@ Alumnado (Apellidos, Nombre):
 - Orduña Garcia, Alba 
 - Cabanyes Muñoz, Cristina (GitKraken)
 - Novillo Luceño, Diego
-- Domingo Álvarez, Mario de
+- Domingo Álvarez, Mario de (GitKraken)
 - Leon Mulero, Jaime (GitKraken)
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
+- Cristian Ortega Gonzalez
 - Calderon Aguinaga , Jose Daniel
 - Aguilera Villaplana Alejandro (GitKraken)
+
