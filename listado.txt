@@ -5,6 +5,7 @@ Profesor: José Luis González
 Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para que se vea como una lista
 
 Alumnado (Apellidos, Nombre): 
+- Germán Fernández Carracedo
 - Fernandez Delgado Raul
 - Ruiz Serrano Javier
 - De León Santos, Shayla
@@ -16,4 +17,3 @@ Alumnado (Apellidos, Nombre):
 - Leon Mulero, Jaime
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
-
