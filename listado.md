@@ -8,7 +8,7 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 
 Alumnado (Apellidos, Nombre): 
 - Hernández-Javier
-- Cobos Ferrer Ricardo Rubén
+- Cobos Ferrer Ricardo Rubén (GitKraken)
 - Gregorio Asensio, Christian
 - Jesus Oscar Cobo Arrogante
 - Germán Fernández Carracedo
