@@ -23,4 +23,4 @@ Alumnado (Apellidos, Nombre):
 - Leon Mulero, Jaime
 - Gonzalez Alvarez, Natalia
 - Aguilera Villaplana Alejandro
-- Aguinaga Calderon, Jose Daniel
+- Calderon Aguinaga , Jose Daniel
