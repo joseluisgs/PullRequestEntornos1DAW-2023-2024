@@ -14,7 +14,7 @@ Alumnado (Apellidos, Nombre):
 - Germán Fernández Carracedo
 - Fernandez Delgado Raul
 - Ruiz Serrano Javier
-- De León Santos, Shayla
+- De León Santos, Shayla (GitKraken)
 - El hadri el bakkali, Yahya
 - Orduña Garcia, Alba 
 - Cabanyes Muñoz, Cristina
