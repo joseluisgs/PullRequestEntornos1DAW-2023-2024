@@ -5,5 +5,12 @@ Profesor: José Luis González
 Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para que se vea como una lista
 
 Alumnado (Apellidos, Nombre): 
--
 - De León Santos, Shayla
+- El hadri el bakkali, Yahya
+- Orduña Garcia, Alba 
+- Cabanyes Muñoz, Cristina
+- Novillo Luceño, Diego
+- Domingo Álvarez, Mario de
+- Leon Mulero, Jaime
+- Gonzalez Alvarez, Natalia
+- Aguilera Villaplana Alejandro
