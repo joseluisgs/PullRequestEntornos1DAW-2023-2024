@@ -22,7 +22,7 @@ Alumnado (Apellidos, Nombre):
 - Leon Mulero, Jaime (GitKraken)
 - Ortega Gonzalez, Christian (GitKraken)
 - Calderon Aguinaga, Jose Daniel(GitKraken)
-- Cobo Arrogante, Jesus Oscar
+- Cobo Arrogante, Jesus Oscar  (GitKraken)
 - Fernández Carracedo, German
 - Novillo Luceño, Diego (GitKraken)
 - Fernández Carracedo, Germán
