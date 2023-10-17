@@ -10,7 +10,7 @@ Alumnado (Apellidos, Nombre):
 - Hernández-Javier
 - Cobos Ferrer Ricardo Rubén
 - Gregorio Asensio, Christian
-- Jesus Oscar Cobo Arrogante
+- Jesus Oscar Cobo Arrogante (GitKraken)
 - Germán Fernández Carracedo
 - Fernandez Delgado Raul
 - Ruiz Serrano Javier
