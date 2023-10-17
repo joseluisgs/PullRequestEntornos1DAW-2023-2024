@@ -24,10 +24,5 @@ Alumnado (Apellidos, Nombre):
 - Calderon Aguinaga, Jose Daniel(GitKraken)
 - Cobo Arrogante, Jesus Oscar
 - Fernández Carracedo, German
-- Novillo Luceño, Diego
+- Novillo Luceño, Diego (GitKraken)
 - Fernández Carracedo, Germán
-
-
-
-
-
